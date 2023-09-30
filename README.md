@@ -1,2 +1,2 @@
 # What is this project?
-This app accesses news about a particular topic and sends it by email.
+A website that gets data from a news API and sends a daily email on a specific topic.
